@@ -2,6 +2,7 @@
 
 //arr 代表形参，不会创建新数组，和实参是完全一样的
 void addStudentNo(int arr[]){
+
 	printf("arr=地址%#p\n",arr);
 	printf("请输入学生的编号,每输入一个学生的编号,请回车\n");
 	for(int i=0;i<5;i++){
