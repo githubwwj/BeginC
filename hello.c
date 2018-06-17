@@ -1,12 +1,12 @@
-#include <stdio.h>  //æ ‡å‡†çš„è¾“å…¥è¾“å‡ºå¤´æ–‡ä»¶ï¼Œå¤´æ–‡ä»¶åªæœ‰å‡½æ•°çš„å£°æ˜
+#include <stdio.h>  //±ê×¼µÄÊäÈëÊä³öÍ·ÎÄ¼ş£¬Í·ÎÄ¼şÖ»ÓĞº¯ÊıµÄÉùÃ÷
 #include <stdlib.h>
 //java import  
 
 int main(int argc, char const *argv[])
 {
-	printf("hello world\n");  //  \nä»£è¡¨æ¢è¡Œ    System.out.print();
+	printf("hello world\n");  //  \n´ú±í»»ĞĞ    System.out.print();
 
-	system("pause"); //è®©dosçª—å£æš‚åœ
-	// getchar(); //è®©dosçª—å£æš‚åœ
+	system("pause"); //ÈÃdos´°¿ÚÔİÍ£
+	// getchar(); //ÈÃdos´°¿ÚÔİÍ£
 	return 0;
 }
