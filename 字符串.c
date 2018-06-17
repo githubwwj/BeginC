@@ -10,7 +10,7 @@ void addStudentName(char ourName[][20]){
 
 int main(int argc, char *argv[])
 {
-	//定义字符串的时候出事化值,这个写法呢要加\0,代表字符串的结束标志
+	//定义字符串的时候初始化值,这个写法呢要加\0,代表字符串的结束标志
 	char stuName[]={'M','i','k','e','\0'};//字符串其实就是一个一个的字符组成
 	char name[]={"zhangsan"};  //系统默认给这个字符串加一个\0
 
