@@ -16,6 +16,8 @@
 |11|11_C语言字符串常用的一些函数|http://www.iqiyi.com/w_19rz2ll2ut.html|
 |12|12_C语言指针修改学生成绩|http://www.iqiyi.com/w_19rz2meqf1.html|
 |13|13_通过学习成绩熟悉switch和if|http://www.iqiyi.com/w_19rz2m023x.html|
+|14|14_C语言的二级指针|http://www.iqiyi.com/w_19rz2quw3d.html|
+|15|15_C语言统计用户输入的单词数和空格数|http://www.iqiyi.com/w_19rz2qytwx.html|
 
 
 
