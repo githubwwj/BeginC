@@ -20,6 +20,10 @@
 |15|15_C语言统计用户输入的单词数和空格数|http://www.iqiyi.com/w_19rz2qytwx.html|
 |16|16_C语言禁止修改一维数组学生的成绩|https://www.iqiyi.com/w_19ryzkppth.html|
 |17|17_C语言指针数组修改员工编号|https://www.iqiyi.com/w_19ryz9md49.html|
+|18|18_C语言数组指针|http://www.iqiyi.com/w_19ryz67615.html|
+|19|19_C语言万能指针|http://www.iqiyi.com/w_19ryz6f7w5.html|
+|20|20_C语言数组指针修改学生名字||
+|21|21_C语言枚举熟悉春夏秋冬|http://www.iqiyi.com/w_19ryzfcb2p.html|
 
 
 
