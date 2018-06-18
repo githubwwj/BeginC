@@ -18,7 +18,7 @@
 |13|13_通过学习成绩熟悉switch和if|http://www.iqiyi.com/w_19rz2m023x.html|
 |14|14_C语言的二级指针|http://www.iqiyi.com/w_19rz2quw3d.html|
 |15|15_C语言统计用户输入的单词数和空格数|http://www.iqiyi.com/w_19rz2qytwx.html|
-|16|15_C语言统计用户输入的单词数和空格数|https://www.iqiyi.com/w_19ryzkppth.html|
+|16|16_C语言禁止修改一维数组学生的成绩|https://www.iqiyi.com/w_19ryzkppth.html|
 |17|17_C语言指针数组修改员工编号|https://www.iqiyi.com/w_19ryz9md49.html|
 
 
