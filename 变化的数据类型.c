@@ -23,12 +23,9 @@ void printStu(SP s){
 
 int main(int argc, char *argv[])
 {
-	
 	Student stu;  //顶一个学生结构体变量 stu
-
 	stu.name="Jeeny";
 	stu.age=24;
-
 	printStu(&stu);
 
 	Point point; //定义struct point结构体变量
