@@ -22,8 +22,14 @@
 |17|17_C语言指针数组修改员工编号|https://www.iqiyi.com/w_19ryz9md49.html|
 |18|18_C语言数组指针|http://www.iqiyi.com/w_19ryz67615.html|
 |19|19_C语言万能指针|http://www.iqiyi.com/w_19ryz6f7w5.html|
-|20|20_C语言数组指针修改学生名字||
+|20|20_C语言数组指针修改学生名字|待审核|
 |21|21_C语言枚举熟悉春夏秋冬|http://www.iqiyi.com/w_19ryzfcb2p.html|
+|22|22_C语言结构体描述用户信息|https://www.iqiyi.com/w_19ryzs8qvt.html|
+|23|22_C语言结构体描述用户信息|待审核|
+|24|24_C语言重新给基本数据娶个别名typedef|http://www.iqiyi.com/w_19ryzqagmx.html|
+|25|25_C语言变化的数据类型typedef||
+
+
 
 
 
