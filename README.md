@@ -22,14 +22,19 @@
 |17|17_C语言指针数组修改员工编号|https://www.iqiyi.com/w_19ryz9md49.html|
 |18|18_C语言数组指针|http://www.iqiyi.com/w_19ryz67615.html|
 |19|19_C语言万能指针|http://www.iqiyi.com/w_19ryz6f7w5.html|
-|20|20_C语言数组指针修改学生名字||
+|20|20_C语言数组指针修改学生名字|https://www.iqiyi.com/w_19ryz6n73p.html|
 |21|21_C语言枚举熟悉春夏秋冬|http://www.iqiyi.com/w_19ryzfcb2p.html|
 |22|22_C语言结构体描述用户信息|https://www.iqiyi.com/w_19ryzs8qvt.html|
 |23|22_C语言结构体描述用户信息|待审核|
 |24|24_C语言重新给基本数据娶个别名typedef|http://www.iqiyi.com/w_19ryzqagmx.html|
 |25|25_C语言变化的数据类型typedef|http://www.iqiyi.com/w_19ryzqfedh.html|
 |26|26_C语言typedef 与define的区别|http://www.iqiyi.com/w_19ryzqho4l.html|
-|27|27_C语言预处理指令宏定义|待审核|
+|27|27_C语言预处理指令宏定义|https://www.iqiyi.com/w_19rz0n8pil.html|
+|28|28_C语言预处理指定条件编译|https://www.iqiyi.com/w_19rz0n4qb9.html|
+|29|29_C语言预处理指令文件包含|http://www.iqiyi.com/w_19rz0apf85.html|
+|30|30_C语言万能的数据类型union|https://www.iqiyi.com/w_19rz0jp6q9.html|
+|31|31_C语言动态内存分配|https://www.iqiyi.com/w_19rz0jw6lx.html|
+
 
 
 
@@ -38,7 +43,8 @@
 
 
 有道云笔记地址
-http://note.youdao.com/noteshare?id=fa22081299b0686bc3f490f32d521499
+http://note.youdao.com/noteshare?id=fa22081299b0686bc3f490f32d521499  C语言零基础不一样的风格上
+http://note.youdao.com/noteshare?id=072eb3caf7ac91bf02ce2d25b68fe3e2  C语言零基础不一样的风格中
 
 
 
