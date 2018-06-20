@@ -24,9 +24,7 @@ int main(int argc, char *argv[])
 	}
 
 	printf("-------------\n");
-	
 	addData(arr,10);	
-
 //	void *realloc(void *address, int newsize); 
 	//重新分配内存空间
 	//该函数重新分配内存，把内存扩展到 newsize。
