@@ -36,6 +36,12 @@
 |31|31_C语言动态内存分配|https://www.iqiyi.com/w_19rz0jw6lx.html|
 |32|32_C语言野指针和内存泄漏|https://www.iqiyi.com/w_19rz0h9cll.html|
 |33|33_C语言强制类型转换|https://www.iqiyi.com/w_19rz0h9cll.html|
+|34|34_C语言文件拷贝|https://www.iqiyi.com/w_19rymlhkfd.html|
+|35|35_C语言读取一个文件显示到DOS|https://www.iqiyi.com/w_19rynbdcwd.html|
+|36|36_C语言文件的基本操作|https://www.iqiyi.com/w_19ryn9qggx.html|
+|37|37_C语言一次读取整个文件|https://www.iqiyi.com/w_19rz0h9cll.html|
+|38|38_C语言把一个班的学生存储到文件中|https://www.iqiyi.com/w_19rynhb9i9.html|
+|39|||
 
 
 

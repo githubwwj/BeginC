@@ -11,7 +11,9 @@ int main(int argc, char *argv[])
 // *((*p) + 1)
 	printf("p=%p \t *p=%p\n",p,*p); 
 	printf("arr[0]=%d \t **p=%d \n",arr[0],**p);
-	printf("*((*p)+1)=%d",*((*p)+1));  //获取数组的值
+	printf("*((*p)+1)=%d\n",*((*p)+1));  //获取数组的值
+
+	printf("sizeof(p)=%d\n",sizeof(p));
 
 	return 0;
 }
