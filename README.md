@@ -41,7 +41,10 @@
 |36|36_C语言文件的基本操作|https://www.iqiyi.com/w_19ryn9qggx.html|
 |37|37_C语言一次读取整个文件|https://www.iqiyi.com/w_19rynhb9i9.html|
 |38|38_C语言把一个班的学生存储到文件中|http://www.iqiyi.com/w_19ryn1qx6l.html|
-|39|||
+|39|39_C语言判断文件有没有读完或者出错|https://www.iqiyi.com/w_19ryn0y1jt.html|
+|40|40_C语言冒泡排序|https://www.iqiyi.com/w_19ryn3xzf5.html|
+|41|41_C语言可变参数|https://www.iqiyi.com/w_19ryshciot.html|
+|42|42_C语言逻辑运算符|https://www.iqiyi.com/w_19ryn3xzf5.html|
 
 
 
