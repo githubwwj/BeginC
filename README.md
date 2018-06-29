@@ -46,7 +46,8 @@
 |41|41_C语言可变参数|https://www.iqiyi.com/w_19ryshciot.html|
 |42|42_C语言逻辑运算符|https://www.iqiyi.com/w_19rys1pzd5.html|
 |43|43_C语言隐式加载动态链接库|https://www.iqiyi.com/w_19ryt2ellh.html|
-|44|44_C语言显示加载动态链接库|https://www.iqiyi.com/w_19ryn3xzf5.html|
+|44|44_C语言显示加载动态链接库|https://www.iqiyi.com/w_19rytba6p1.html|
+|45|45_C语言中头文件和源文件的解析||
 
 
 
@@ -57,13 +58,3 @@
 http://note.youdao.com/noteshare?id=fa22081299b0686bc3f490f32d521499  C语言零基础不一样的风格上<br/>
 http://note.youdao.com/noteshare?id=072eb3caf7ac91bf02ce2d25b68fe3e2  C语言零基础不一样的风格中<br/>
 http://note.youdao.com/noteshare?id=12a807786cbcec012c52f7d0a6568517  C语言零基础不一样的风格下<br/>
-
-
-
-
-dumpbin -exports D:\code\src\FirstDLL\Debug\FirstDLL.dll
-
-
-
-
-

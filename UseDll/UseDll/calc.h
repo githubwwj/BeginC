@@ -3,7 +3,9 @@
 #define _FIRST_H_
 
 #include<stdio.h>
-_declspec(dllexport) int add(int, int);
-_declspec(dllexport) int sub(int, int);
+extern "C" _declspec(dllexport) int add(int, int);
+extern "C" _declspec(dllexport) int sub(int, int);
 
 #endif // !_FIRST_H_
+//C++ ±àÒëÆ÷   
+//C   ±àÒëÆ÷   extern "C"
