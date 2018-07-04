@@ -44,7 +44,7 @@
 |39|39_C语言判断文件有没有读完或者出错|https://www.iqiyi.com/w_19ryn0y1jt.html|
 |40|40_C语言冒泡排序|https://www.iqiyi.com/w_19ryn3xzf5.html|
 |41|41_C语言可变参数|https://www.iqiyi.com/w_19ryshciot.html|
-|42|42_C语言逻辑运算符|https://www.iqiyi.com/w_19rys1pzd5.html|
+|42|42_C语言逻辑运算符|https://www.iqiyi.com/w_19ryr3nhwt.html|
 |43|43_C语言隐式加载动态链接库|https://www.iqiyi.com/w_19ryt2ellh.html|
 |44|44_C语言显示加载动态链接库|https://www.iqiyi.com/w_19rytba6p1.html|
 |45|45_C语言中头文件和源文件的解析|http://www.iqiyi.com/w_19ryt9iabp.html|
